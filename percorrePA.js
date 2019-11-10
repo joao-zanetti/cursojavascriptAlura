@@ -1,4 +1,7 @@
-
+/*
+    Developed by João Zanetti
+    https://github.com/joao-zanetti
+*/
 function percorreArrayPA(trsPacientes, comportamento){  //recebe um array de  tr da classe paciente  e uma funcao
 
 	for(posicaoAtual=0;posicaoAtual<=trsPacientes.length -1 ; posicaoAtual++){  //percorre todas posicoes do vetor de trs
