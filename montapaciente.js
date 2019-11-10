@@ -1,4 +1,7 @@
-
+/*
+    Developed by João Zanetti
+    https://github.com/joao-zanetti
+*/
 function createpaciente(pacienteTr){
 
 	var tdNome = pacienteTr.getElementsByClassName("info-nome")[0];
