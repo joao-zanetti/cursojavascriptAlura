@@ -1,3 +1,7 @@
+/*
+    Developed by João Zanetti
+    https://github.com/joao-zanetti
+*/
 function calculaTODOSimcs(){
 
 		var trsPacientes = document.getElementsByClassName("paciente"); //array  de trs
