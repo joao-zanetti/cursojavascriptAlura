@@ -1,4 +1,7 @@
-
+/*
+    Developed by João Zanetti
+    https://github.com/joao-zanetti
+*/
 
 //var tabela document.getElementsByTagName("table")[0]; //array de  tabelas
 
